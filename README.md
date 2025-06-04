@@ -5,7 +5,7 @@ March, 2025: We submitted our paper on the UACIL Dataset to the ACM MM2025 Datas
 
 
 
-## How to obtain the data set? :question: 
+## How to obtain the dataset? :question: 
 
 Because the file size exceeded the limit of github. We have provided the download link of Baidu Netdisk. Please click :link: [UACIL](https://pan.baidu.com/s/1X2W4LWSHaOJVFWH78Y77zA?pwd=99e7).  
 
