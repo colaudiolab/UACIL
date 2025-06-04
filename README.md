@@ -13,7 +13,7 @@ Because the file size exceeded the limit of github. We have provided the downloa
 
 ## CIL for UATR 
 <div align="center">
-<img src="./png/uatr.png" width="600px">
+<img src="./source/uatr.png" width="600px">
 </div>
 
 
@@ -48,7 +48,7 @@ Underwater acoustic target recognition (UATR) struggles with adapting to new tar
 
 ## Data Collection and Preprocessing
 <div align="center">
-<img src="./png/pipline.png" width="600px">
+<img src="./source/pipline.png" width="600px">
 </div>
 
 1. Crawl raw noisy underwater acoustic data, retaining natural noise.
@@ -56,9 +56,9 @@ Underwater acoustic target recognition (UATR) struggles with adapting to new tar
 3. Analyze duration distribution and effective speech length.
 4. Clip audio to 5 - second segments using VAD - based strategies.
 <div align="center">
-<img src="./png/duration.png" width="600px">
+<img src="./source/duration.png" width="600px">
 </div>
 5. Post - process samples with low speech ratios or no obvious speech.
 <div align="center">
-<img src="./png/hz1.png" width="600px">
+<img src="./source/hz1.png" width="600px">
 </div>
