@@ -22,7 +22,7 @@ Because the file size exceeded the limit of github. We have provided the downloa
 This repository contains the description of UACIL , which are proposed in the following paper:
 ```  
 Qian Zhu, Qisheng Xu, Yi Su, Yulin Sun, Yutao Dou, Tao Li, and Kele Xu.
-2025. UACIL: A Large-Scale Dataset for Class Incremental Learning in Underwater Acoustic Target Recognition. In Proceedings of Proceedings of the
+2025. UACIL: A Large-Scale Dataset for Class Incremental Learning in Underwater Acoustic Target Recognition. In Proceedings of Proceedings of the
 33th ACM International Conference on Multimedia Datasets Track (MM ’25).
 ACM, New York, NY, USA, 8 pages. https://doi.org/XXXXXXX.XXXXXXX
 ``` 
