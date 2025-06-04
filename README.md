@@ -1,4 +1,4 @@
-# Details of the datasets👍👍👍🤙🤙🤙
+# Details of the UACIL datasets👍👍👍
 
 ## News
 March, 2025: We submitted our paper on the UACIL Dataset to the ACM MM2025 Dataset track.[Paper](https://pan.baidu.com/s/1X2W4LWSHaOJVFWH78Y77zA?pwd=99e7).
