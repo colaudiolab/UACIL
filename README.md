@@ -1,34 +1,22 @@
-# Details of the UACIL dataset.👍👍👍
+# Details of the UACIL dataset :o: 
 
-## News :mega: 
+## News :loudspeaker: 
 March, 2025: We submitted our paper on the UACIL Dataset to the ACM MM2025 Dataset track.[Paper](https://pan.baidu.com/s/1X2W4LWSHaOJVFWH78Y77zA?pwd=99e7).
 
 
 
-## How to obtain the data set?
+## How to obtain the data set? :question: 
 
-Because the file size exceeded the limit of github. We have provided the download link of Baidu Netdisk. Please click [UACIL](https://pan.baidu.com/s/1X2W4LWSHaOJVFWH78Y77zA?pwd=99e7).
+Because the file size exceeded the limit of github. We have provided the download link of Baidu Netdisk. Please click :link: [UACIL](https://pan.baidu.com/s/1X2W4LWSHaOJVFWH78Y77zA?pwd=99e7).  
 
 
 
-## CIL for UATR 
+## CIL for UATR :exclamation: 
 <div align="center">
 <img src="./source/uatr.png" width="600px">
 </div>
 
-
-## Citing  
-
-This repository contains the description of UACIL , which are proposed in the following paper:
-```  
-Qian Zhu, Qisheng Xu, Yi Su, Yulin Sun, Yutao Dou, Tao Li, and Kele Xu.
-2025. UACIL: A Large-Scale Dataset for Class Incremental Learning in Underwater Acoustic Target Recognition. In Proceedings of Proceedings of the
-33th ACM International Conference on Multimedia Datasets Track (MM ’25).
-ACM, New York, NY, USA, 8 pages. https://doi.org/XXXXXXX.XXXXXXX
-``` 
-
-
-## Dataset Detail
+## Dataset Detail :page_facing_up: 
 
 Motivation for constructing the datasets: 
 
@@ -51,14 +39,24 @@ Underwater acoustic target recognition (UATR) struggles with adapting to new tar
 <img src="./source/pipline.png" width="600px">
 </div>
 
-1. Crawl raw noisy underwater acoustic data, retaining natural noise.
-2. Preprocess audio to a unified 16kHz sampling rate.
-3. Analyze duration distribution and effective speech length.
-4. Clip audio to 5 - second segments using VAD - based strategies.
+:one: Crawl raw noisy underwater acoustic data, retaining natural noise.
+:two:  Preprocess audio to a unified 16kHz sampling rate.
+:three: Analyze duration distribution and effective speech length.
+:four: Clip audio to 5 - second segments using VAD - based strategies.
 <div align="center">
 <img src="./source/duration.png" width="600px">
 </div>
-5. Post - process samples with low speech ratios or no obvious speech.
+:five: Post - process samples with low speech ratios or no obvious speech.
 <div align="center">
 <img src="./source/hz1.png" width="600px">
 </div>
+
+## Citing  
+
+This repository contains the description of UACIL , which are proposed in the following paper:
+```  
+Qian Zhu, Qisheng Xu, Yi Su, Yulin Sun, Yutao Dou, Tao Li, and Kele Xu.
+2025. UACIL: A Large-Scale Dataset for Class Incremental Learning in Underwater Acoustic Target Recognition. In Proceedings of Proceedings of the
+33th ACM International Conference on Multimedia Datasets Track (MM ’25).
+ACM, New York, NY, USA, 8 pages. https://doi.org/XXXXXXX.XXXXXXX
+``` 
